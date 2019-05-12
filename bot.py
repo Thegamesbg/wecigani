@@ -9,4 +9,4 @@ async def banall(ctx, member):
     for member in ctx.message.author.server.members:
         ban(member)
 		
-bot.run("NTYxMzU4MTk1NzU5NTEzNjAw.XJ7EIQ.ABsnoNgqa-9yZ5XmVH0AY8xfBP8")
+bot.run("YOUR TOKEN GOES HERE")
